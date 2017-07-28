@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "8.0"
   s.source       = { :git => "https://github.com/554994782/JYFOrderCenter.git", :branch => "release/release" }
 
-  s.source_files  = "JYFFoundation"
+  s.source_files  = "JYFOrderCenter"
 
   s.public_header_files = "JYFOrderCenter/**/*.h"
 #s.resource_bundles = { 'JYFOrderCenter => ['JYFOrderCenter/**/*.{storyboard,xib,xcassets,json,imageset,png}'] }
