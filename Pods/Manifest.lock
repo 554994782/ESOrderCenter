@@ -1,0 +1,22 @@
+PODS:
+  - JYFFoundation (0.0.5)
+
+DEPENDENCIES:
+  - JYFFoundation (from `https://github.com/554994782/JYFFoundation.git`, branch `release/release`)
+
+EXTERNAL SOURCES:
+  JYFFoundation:
+    :branch: release/release
+    :git: https://github.com/554994782/JYFFoundation.git
+
+CHECKOUT OPTIONS:
+  JYFFoundation:
+    :commit: 21323502064a6c6cf19b8e3f831168d5bc92d84e
+    :git: https://github.com/554994782/JYFFoundation.git
+
+SPEC CHECKSUMS:
+  JYFFoundation: 3cedcf612bfe7403c15a17ad378eb164c73fe5c4
+
+PODFILE CHECKSUM: 6ca2b381fc483ccf44f404fe370a946edc826ad3
+
+COCOAPODS: 1.2.1

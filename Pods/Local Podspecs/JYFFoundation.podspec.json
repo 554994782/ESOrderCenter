@@ -1,0 +1,20 @@
+{
+  "name": "JYFFoundation",
+  "version": "0.0.5",
+  "summary": "Have no summary JYFFoundation.",
+  "description": "A Main Foundation Component for Other Kit",
+  "homepage": "https://github.com/554994782/JYFFoundation.git",
+  "license": "MIT",
+  "authors": {
+    "jiangyunfeng": "554994782@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://github.com/554994782/JYFFoundation.git",
+    "branch": "release/release"
+  },
+  "source_files": "JYFFoundation",
+  "public_header_files": "JYFFoundation/**/*.h"
+}
