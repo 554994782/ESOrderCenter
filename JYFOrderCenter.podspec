@@ -21,5 +21,5 @@ Pod::Spec.new do |s|
 
   s.public_header_files = "JYFOrderCenter/**/*.h"
 #s.resource_bundles = { 'JYFOrderCenter => ['JYFOrderCenter/**/*.{storyboard,xib,xcassets,json,imageset,png}'] }
-#s.dependency 'JYFFoundation', '~> 0.0.5'
+s.dependency 'JYFFoundation', '~> 0.0.5'
 end
