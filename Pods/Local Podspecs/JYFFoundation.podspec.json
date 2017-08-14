@@ -16,5 +16,10 @@
     "branch": "release/release"
   },
   "source_files": "JYFFoundation",
-  "public_header_files": "JYFFoundation/**/*.h"
+  "public_header_files": "JYFFoundation/**/*.h",
+  "dependencies": {
+    "MGJRouter": [
+
+    ]
+  }
 }

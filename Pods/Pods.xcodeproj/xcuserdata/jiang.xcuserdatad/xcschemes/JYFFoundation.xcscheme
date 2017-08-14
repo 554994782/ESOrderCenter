@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '4340C678008419965C4F13582169ABCF'
+               BlueprintIdentifier = '758044BC5183AFA9214A9ECB90C56511'
                BlueprintName = 'JYFFoundation'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'JYFFoundation.framework'>

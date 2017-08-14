@@ -9,6 +9,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>MGJRouter.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-JYFOrderCenter.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -22,17 +27,22 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>04DCDCF6E3E32DA4171341638D9A5103</key>
+		<key>29415F090576631FE902D4C1E8D0FDFE</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>4340C678008419965C4F13582169ABCF</key>
+		<key>758044BC5183AFA9214A9ECB90C56511</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>E874232B1FB5E215C6B840CE1C076E7C</key>
+		<key>8A90D5EAC80359BBFA1A24D8A39D6792</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>ECC6838263EE78BD3D1BDB5232864378</key>
 		<dict>
 			<key>primary</key>
 			<true/>
